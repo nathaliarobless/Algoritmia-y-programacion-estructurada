@@ -9,7 +9,7 @@ printf ("Ingresa tu edad\n");
 scanf ("%d",&x);
 
 if (x>=y){
-    printf ("Ya eres legal ajuaa");
+    printf ("Toma huevo");
 }
 else{
     printf ("Pa tu casa a ver Pocoyo");
